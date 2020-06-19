@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: 10px solid #000000;
+  border: 10px;
 }
 body {
   font-family: 'PT Sans', sans-serif;

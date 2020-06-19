@@ -1,7 +1,8 @@
 * {
-  margin: 3;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border: 10px solid #000000;
 }
 body {
   font-family: 'PT Sans', sans-serif;

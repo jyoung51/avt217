@@ -1,5 +1,5 @@
-body {
-  background-color: blue;
+* {
+  box-sizing: border-box;
 }
 body {
   margin: 0;
@@ -11,7 +11,7 @@ header, footer {
   padding: 25px 100px;
 }
 h2 {
-  color: #(colorcode);
+  color: #E06445;
 }
 li {
   display: inline;

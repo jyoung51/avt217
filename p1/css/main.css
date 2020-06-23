@@ -13,3 +13,6 @@ header, footer {
 h2 {
   color: #(colorcode);
 }
+li {
+  display: inline;
+}

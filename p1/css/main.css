@@ -4,7 +4,8 @@ body {
 body {
   margin: 0;
 }
-header {
+header, footer {
   background-color: black;
   color: white;
+  padding: 25px 100px;
 }

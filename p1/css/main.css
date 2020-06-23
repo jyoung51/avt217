@@ -3,9 +3,13 @@ body {
 }
 body {
   margin: 0;
+  font-family: sans-serif;
 }
 header, footer {
   background-color: black;
   color: white;
   padding: 25px 100px;
+}
+h2 {
+  color: #(colorcode);
 }

@@ -1,3 +1,32 @@
 body {
-  background-color: blue;
+  margin: 0;
+  overflow-x: hidden;
+}
+main {
+  width: 120vw;
+  margin: -10vw;
+}
+.shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+  Margin: -10px;
+  opacity: .75;
+}
+.shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: dodgerblue;
+  float: left;
+  Margin: -10px;
+  opacity: .75;
+}
+.shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  float: left;
+  Margin: -10px;
+  opacity: .75;
 }

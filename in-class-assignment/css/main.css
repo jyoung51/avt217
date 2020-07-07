@@ -1,0 +1,22 @@
+* {
+  margin: 25px;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+
+
+
+}
+.square{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  float: right;
+}
+
+.rectangle{
+  width: 225px;
+  height: 100px;
+  background-color: purple;
+}

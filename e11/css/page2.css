@@ -1,0 +1,13 @@
+body{
+  bckground-color: salmon;
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: dodgerblue;
+  }
+}
+@media screen and (max-width: 750px) {
+  body {
+    background-color: gold;
+  }

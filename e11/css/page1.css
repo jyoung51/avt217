@@ -4,16 +4,19 @@ body{
 
 @media screen and (max-width: 1000px) {
   body {
+    font-family: 'PT Sans', sans-serif;
     background-color: red;
   }
 }
 @media screen and (max-width: 750px) {
   body {
+    font-family: 'PT Sans', sans-serif;
     background-color: gold;
   }
 }
 @media screen and (max-width: 500px) {
   body {
+    font-family: 'PT Sans', sans-serif;
     background-color: green;
   }
 }

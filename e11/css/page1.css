@@ -4,7 +4,7 @@ body{
 
 @media screen and (max-width: 1000px) {
   body {
-    background-color: dodgerblue;
+    background-color: red;
   }
 }
 @media screen and (max-width: 750px) {

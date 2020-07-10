@@ -4,10 +4,16 @@ body{
 
 @media screen and (max-width: 1000px) {
   body {
-    background-color: yellow;
+    background-color: dodgerblue;
   }
 }
 @media screen and (max-width: 750px) {
   body {
-    background-color: red;
+    background-color: gold;
   }
+}
+@media screen and (max-width: 500px) {
+  body {
+    background-color: green;
+  }
+}

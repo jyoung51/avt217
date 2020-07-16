@@ -3,12 +3,39 @@
   margin: 0;
   padding: 0;
 }
-.body {
-  width: ;
-  height: ;
-  background-color: ;
-  border:
-  border-radius: ;
-  margin: ;
+.frame {
+  width: 800px;
+  height: 400px;
+  background-color: black;
+  border: ;
+  border-radius: 10px;
+  margin: 100px 0 0 100px;
   position: ;
+}
+.screen {
+  width: 760px;
+  height: 360px;
+  background-color: grey;
+  border:
+  border-radius: 10px;
+  margin: 20px 20px 20px 20px;
+  position: absolute;
+}
+.brand {
+  width: 25px;
+  height: 15px;
+  background-color: grey;
+  position: absolute;
+  top: 482px;
+  left: 855px;
+}
+.light {
+  width: 7px;
+  height: 7px;
+  background-color: blue;
+  border-radius: 50%;
+  margin: ;
+  position: absolute;
+  top: 485px;
+  left: 864px;
 }

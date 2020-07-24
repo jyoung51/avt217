@@ -68,7 +68,7 @@ img {
 .hometitle {
   text-align: center;
   line-height: 48px;
-  width: 100vw;
+  width: 5vw;
   height: 5vw;
   margin: 30px auto;
   font-size: 60px;
@@ -81,3 +81,26 @@ img {
   border-radius: 10px;
   margin: 100px 0 0 100px;
   position: ;
+}
+
+
+
+.brick-image-old {
+  float: left;
+
+}
+
+
+
+.building-old {
+  float: right;
+}
+
+.musicfront {
+  float: right;
+}
+
+.dayfront {
+  float: left;
+  width: 50%; 
+}

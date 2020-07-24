@@ -19,7 +19,7 @@ header, footer {
 h2 {
   color: #E06445;
 }
-li {
+header li {
   display: inline;
 }
 img {

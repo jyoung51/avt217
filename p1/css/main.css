@@ -48,6 +48,13 @@ img {
   height: 5vw;
   margin: 30px auto;
 }
+.old {
+  text-align: center;
+  line-height: 20px;
+  width: 50vw;
+  height: 5vw;
+  margin: 30px auto;
+}
 .newtext {
   text-align: center;
   line-height: 20px;

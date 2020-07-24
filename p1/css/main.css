@@ -22,7 +22,11 @@ h2 {
 li {
   display: inline;
 }
-
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
 .aboutparagraph {
   text-align: center;
   line-height: 20px;

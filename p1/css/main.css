@@ -1,4 +1,9 @@
 * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+* {
   box-sizing: border-box;
 }
 body {
@@ -17,3 +22,51 @@ h2 {
 li {
   display: inline;
 }
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.aboutparagraph {
+  text-align: center;
+  line-height: 20px;
+  width: 50vw;
+  height: 5vw;
+  margin: 30px auto;
+}
+.about{
+  text-align: center;
+  line-height: 20px;
+  width: 50vw;
+  height: 5vw;
+  margin: 30px auto;
+}
+.new {
+  text-align: center;
+  line-height: 20px;
+  width: 50vw;
+  height: 5vw;
+  margin: 30px auto;
+}
+.newtext {
+  text-align: center;
+  line-height: 20px;
+  width: 50vw;
+  height: 5vw;
+  margin: 30px auto;
+}
+.hometitle {
+  text-align: center;
+  line-height: 20px;
+  width: 50vw;
+  height: 5vw;
+  margin: 30px auto;
+}
+.homebuttong {
+  width: 50px;
+  height: 40px;
+  background-color: grey;
+  border: ;
+  border-radius: 10px;
+  margin: 100px 0 0 100px;
+  position: ;
